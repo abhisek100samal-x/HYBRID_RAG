@@ -1,0 +1,11 @@
+﻿streamlit
+pypdf
+langchain-core
+langchain-text-splitters
+langchain-community
+langchain-classic
+langchain-chroma
+chromadb
+rank-bm25
+sentence-transformers
+langchain-ollama

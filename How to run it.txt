@@ -1,0 +1,2 @@
+cmd - .\.venv\Scripts\Activate.ps1
+then - python -m streamlit run app.py
