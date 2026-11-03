@@ -215,14 +215,10 @@ Key parameters live directly in the code and are easy to tune:
 
 Contributions, issues, and feature requests are welcome. Feel free to open an issue or submit a pull request.
 
-## 📄 License
-
-Distributed under the MIT License. Add a `LICENSE` file to your repository to make this official.
-
 ## 👤 Author
 
 **Your Name**
-GitHub: [@your-username](https://github.com/your-username)
+GitHub: [@your-username](Abhisek Samal)
 
 ---
 
