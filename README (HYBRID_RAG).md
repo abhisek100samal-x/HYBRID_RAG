@@ -218,7 +218,7 @@ Contributions, issues, and feature requests are welcome. Feel free to open an is
 ## 👤 Author
 
 **Your Name**
-GitHub: [@your-username](Abhisek Samal)
+GitHub: (Abhisek Samal)
 
 ---
 
